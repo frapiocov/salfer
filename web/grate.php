@@ -83,7 +83,7 @@
     <section id="portfolio-details" class="portfolio-details">
         <div class="container">
 
-            <!--piatte-->
+            <!--fisse-->
             <div class="row gy-4" data-aos="fade-up">
 
                 <div class="col-lg-7">
@@ -91,15 +91,27 @@
                         <div class="swiper-wrapper align-items-center">
 
                             <div class="swiper-slide">
-                                <img src="assets/img/persiane/piatto.png" alt="">
+                                <img src="assets/img/grate/gratafissa1.png" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/persiane/piatto_details.jpg" alt="">
+                                <img width="200" height="300" src="assets/img/grate/gf1.png" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/persiane/1.jpg" alt="">
+                                <img width="200" height="300" src="assets/img/grate/gf2.png" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img width="200" height="300" src="assets/img/grate/gf3.png" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img width="200" height="300" src="assets/img/grate/gf5.png" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img width="200" height="300" src="assets/img/grate/gf7.png" alt="">
                             </div>
 
                         </div>
@@ -111,49 +123,45 @@
                     <div class="portfolio-info">
                         <h2 style="color: #0c3c53">Grata Fissa</h2>
                         <h3>Informazioni tecniche prodotto</h3>
-                        <ul>
-                            <li><strong>Materiali</strong>: telaio e grata in acciaio pre-zincato</li>
-                            <li><strong>Anta</strong>: tre lati</li>
-                            <li><strong>Fascione</strong>: lato inferiore con profilo di chiusura in alluminio</li>
-                            <li><strong>Sistema di orientamento</strong>: frizionato con cava da 25mm, possibile l'applicazione di
-                                cerniere con cardini su piastra
-                            </li>
-                            <li><strong>Realizzazione</strong>: a lamelle fisse con sistema a sormonto</li>
-                        </ul>
+                            <p>
+                                <strong>Materiali</strong>: telaio e grata in <b>acciaio pre-zincato</b>.<br>
+                                L’assemblaggio di ferri tondi, barre di ferro bombato e componentistica
+                                crea nello spazio deliziose forme e disegni. Si possono realizzare tutti i
+                                modelli desiderati, le <b>decorazioni laser</b> o in ferro battuto a scelta del cliente.
+                            </p>
                     </div>
                     <div class="portfolio-description">
                         <h2>Dettagli</h2>
                         <p>
-                            Scegliere la grata fissa di sicurezza ha il principale vantaggio di
-                            assicurare sicurezza all'abitazione senza rinunciare alla luce naturale.
-                            La vasta scelta di modelli permette l'accostamento a qualsiasi stile, dall'antico al moderno.
+                            Scegliere la grata fissa di sicurezza ha il vantaggio di offrire
+                            <b>sicurezza</b> senza rinunciare alla luce naturale.
+                            La vasta scelta di modelli e colori permette l'accostamento
+                            a qualsiasi stile, dall'antico al moderno.
                         </p>
                     </div>
                 </div>
 
             </div>
-            <!--bombate-->
+            <!--apribili-->
             <div class="row gy-4" data-aos="fade-up">
 
                 <div class="col-lg-5">
                     <div class="portfolio-info">
-                        <h2 style="color: #0c3c53">Persiana orientabile profilo bombato</h2>
+                        <h2 style="color: #0c3c53">Grata Apribile</h2>
                         <h3>Informazioni tecniche prodotto</h3>
-                        <ul>
-                            <li><strong>Telaio</strong>: profondit&agrave; 40mm ed aletta da 50mm</li>
-                            <li><strong>Anta</strong>: tre lati</li>
-                            <li><strong>Fascione</strong>: lato inferiore con profilo di chiusura in alluminio</li>
-                            <li><strong>Materiali</strong>: Maniglia, cerniere e paletto in alluminio</li>
-                            <li><strong>Sistema di orientamento</strong>: frizionato con cava da 36mm</li>
-                            <li><strong>Realizzazione</strong>: a lamelle fisse con sistema a sormonto su richiesta</li>
-                        </ul>
+                        <p>
+                            <strong>Materiali</strong>: telaio e grata in <b>acciaio pre-zincato</b>.<br>
+                            L’assemblaggio di ferri tondi, barre di ferro bombato e componentistica
+                            crea nello spazio deliziose forme e disegni. Si possono realizzare tutti i
+                            modelli desiderati, le <b>decorazioni laser o in ferro battuto</b> a scelta del cliente.
+                        </p>
                     </div>
                     <div class="portfolio-description">
                         <h2>Dettagli</h2>
                         <p>
-                            Persiana in <b>alluminio</b> con telaio "Z" ed anta dalla forma <b>bombata</b>,
-                            dotata di <b>lamelle orientabili</b> azionate dall'apposita levetta.
-                            Chiusura con maniglia o a richiesta con spagnoletta sovrapposta.
+                            La grata apribile &egrave; un'ottima risposta alle esigenze
+                            di sicurezza e protezione, senza rinunciare alla <b>comodit&agrave; dell'apertura</b>.
+                            Realizzata con cura e senso artistico, si ammortizza con qualsiasi stile.
                         </p>
                     </div>
                 </div>
@@ -163,15 +171,19 @@
                         <div class="swiper-wrapper align-items-center">
 
                             <div class="swiper-slide">
-                                <img src="assets/img/persiane/bombato.jpg" alt="">
+                                <img src="assets/img/grate/grataapribile1.png" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/persiane/bombato_details.jpg" alt="">
+                                <img src="assets/img/grate/ga1.png" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/persiane/2.jpg" alt="">
+                                <img src="assets/img/grate/ga2.png" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/grate/ga3.png" alt="">
                             </div>
 
                         </div>
@@ -181,6 +193,43 @@
 
             </div>
 
+            <div class="row gy-4" data-aos="fade-up">
+                <div class="col-lg-6">
+                    <h3>Colorazioni disponibili</h3>
+                    <img src="assets/img/grate/colori_grate.jpg" class="img-fluid" alt="color">
+                </div>
+                <div class="col-lg-5">
+                    <h3>Informazioni sul sistema di chiusura</h3>
+                    <p> <strong>Anta principale</strong>: chiusura mediante serratura di sicurezza a <b>chiusura triplice</b>
+                        e bloccaggio serratura <b>mediante cilindro di sicurezza</b> a profilo europeo a chiave unificata.
+                        <br>
+                        <strong>Anta secondaria</strong>: chiusura mediante <b>paletti</b>, superiore ed inferiore,
+                        in <b>acciaio inox 13mm</b> azionati da catenacci a leva indipendenti.
+                        <br>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <div class="col-lg-12">
+                    <p>
+                        La grata apribile si presenta anche in versione:
+                        <br>
+                        <br>
+                        <strong><i class="ri-checkbox-circle-fill"></i> GRATA APRIBILE TOP dotata di "Certificazione all'antieffrazione in classe III"</strong>
+                        secondo la norma UNI EN 1627-30.
+                        <br>
+                        <br>
+                        <strong><i class="ri-checkbox-circle-fill"></i> GRATA APRIBILE EXTRA-TOP dotata di "Certificazione all'antieffrazione in classe IV"</strong>
+                        secondo la norma UNI EN 1627-30.
+                        <br>
+                        <br>
+                        Le versioni certificate in classe III e IV vantano un <b>progetto unico</b> che
+                        si evolve in un eccellente sistema di produzione fatto di particolari saldatura,
+                        sagomature e assemblaggio sapientemente unito ai migliori e <b>pi&ugrave; resistenti accessori
+                            di sicurezza del mercato italiano</b>.</p>
+                    </p>
+                </div>
+            </div>
 
         </div>
     </section><!-- End Portfolio Details Section -->
