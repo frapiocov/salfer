@@ -74,7 +74,10 @@
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
 
-            <h2>Persiane Orientabili</h2>
+            <h2>Persiane Orientabili e Blindate</h2>
+            <p>La serie <b>CLASSICA</b> &egrave; la produzione base,
+                con design dalle linee morbide ed essenziali,
+                perfettamente adattabile a qualsiasi tipo di arredo e architettura.</p>
 
         </div>
     </section><!-- End Breadcrumbs -->
@@ -133,7 +136,7 @@
 
             </div>
             <!--bombate-->
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 section-bg" data-aos="fade-up">
 
                 <div class="col-lg-5">
                     <div class="portfolio-info">
@@ -180,7 +183,59 @@
                 </div>
 
             </div>
+            <!--blindate classiche-->
+            <div class="row gy-4" data-aos="fade-up">
 
+                <div class="col-lg-7">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/persiane/piatto.png" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/persiane/piatto_details.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/persiane/1.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Persiane Blindate Classiche</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <ul>
+                            <li><strong>Materiali</strong>: telaio e persiana in acciaio pre zincato</li>
+                            <li><strong>Anta principale</strong>: chiusura mediante serratura di sicurezza a chiusura triplice
+                                e bloccaggio serratura mediante <b>cilindro di sicurezza</b> a profilo europeo a chiave unificata</li>
+                            <li><strong>Anta secondaria</strong>: chiusura mediante paletti, superiore ed inferiore, in acciaio inox 13 mm
+                            azionati da catenacci a leva indipendenti</li>
+                        </ul>
+                    </div>
+                    <div class="portfolio-description">
+                        <h2>Dettagli</h2>
+                        <p>
+                            Persiana in <b>alluminio</b> con telaio "Z" ed anta dalla forma <b>lineare</b>,
+                            dotata di <b>lamelle orientabili</b> azionate dall'apposita levetta.
+                            Chiusura con maniglia o a richiesta con spagnoletta sovrapposta.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row gy-4 section-bg">
+                <div class="col-lg-4">
+
+                </div>
+            </div>
 
         </div>
     </section><!-- End Portfolio Details Section -->

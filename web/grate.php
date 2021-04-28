@@ -84,7 +84,7 @@
         <div class="container">
 
             <!--fisse-->
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 section-bg" data-aos="fade-up">
 
                 <div class="col-lg-7">
                     <div class="portfolio-details-slider swiper-container">
@@ -193,33 +193,40 @@
 
             </div>
 
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 section-bg m-1" data-aos="fade-up">
                 <div class="col-lg-6">
                     <h3>Colorazioni disponibili</h3>
                     <img src="assets/img/grate/colori_grate.jpg" class="img-fluid" alt="color">
                 </div>
                 <div class="col-lg-5">
-                    <h3>Informazioni sul sistema di chiusura</h3>
-                    <p> <strong>Anta principale</strong>: chiusura mediante serratura di sicurezza a <b>chiusura triplice</b>
+                    <h3>Informazioni sul sistema di chiusura
+                        <i style="font-size: 30px" class="bx bxs-lock"></i>
+                    </h3>
+                    <p>
+                        <strong style="color: #0c3c53">Anta principale</strong>: chiusura mediante serratura di sicurezza a <b>chiusura triplice</b>
                         e bloccaggio serratura <b>mediante cilindro di sicurezza</b> a profilo europeo a chiave unificata.
                         <br>
-                        <strong>Anta secondaria</strong>: chiusura mediante <b>paletti</b>, superiore ed inferiore,
+                        <br>
+                        <strong  style="color: #0c3c53">Anta secondaria</strong>: chiusura mediante <b>paletti</b>, superiore ed inferiore,
                         in <b>acciaio inox 13mm</b> azionati da catenacci a leva indipendenti.
                         <br>
+                    </p>
+
                 </div>
             </div>
 
             <div class="row gy-4 m-1" data-aos="fade-up">
                 <div class="col-lg-12">
+                    <h2 style="color: #0c3c53">ULTERIORI INFO</h2><br>
                     <p>
                         La grata apribile si presenta anche in versione:
                         <br>
                         <br>
-                        <strong><i class="ri-checkbox-circle-fill"></i> GRATA APRIBILE TOP dotata di "Certificazione all'antieffrazione in classe III"</strong>
+                        <strong style="color: #0c3c53"><i class="ri-checkbox-circle-fill"></i> GRATA APRIBILE TOP dotata di "Certificazione all'antieffrazione in classe III"</strong>
                         secondo la norma UNI EN 1627-30.
                         <br>
                         <br>
-                        <strong><i class="ri-checkbox-circle-fill"></i> GRATA APRIBILE EXTRA-TOP dotata di "Certificazione all'antieffrazione in classe IV"</strong>
+                        <strong style="color: #0c3c53"><i class="ri-checkbox-circle-fill"></i> GRATA APRIBILE EXTRA-TOP dotata di "Certificazione all'antieffrazione in classe IV"</strong>
                         secondo la norma UNI EN 1627-30.
                         <br>
                         <br>
