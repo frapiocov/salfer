@@ -73,7 +73,7 @@
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
-
+            <img src="assets/img/fornitori/logo_flesya.jpg" class="img-fluid" alt="">
             <h2>Porte Interne</h2>
             <p>La vasta selezione di porte per interni <b>Salfer targate Flessya</b>: comodit&agrave;, design elegante e
                 praticit&agrave;.</p>
@@ -308,6 +308,7 @@
                             lo spazio &egrave; stata scelta una <b>porta rototraslante</b>, per la riduzione d'ingombro,
                             con telaio lineo e cornice ampia.
                             <br><br>
+                            <!--
                             Porte <b>realizzate con pino graffiato laccato bianco</b> nel modello N05 realizzate inlinea.
                             <b>Ideali per ambienti moderni</b> che richiedono
                             la presenza di un elemento d'arredo lineare ma allo stesso tempo caratterizzante.
@@ -315,7 +316,8 @@
                             <b>Interno con porte a soffitto nella versione NM00 laccato bianco</b>. Lateralmente &egrave;
                             presente la <b>scorrevole minimal incassato</b>, frontalmente battenti ad anta unica
                             con cerniere a scomparsa con telaio lineo senza traverso e cornice plana. Ideali
-                            per un <b>ambiente dall'aspetto minimale</b>, dove la linearit&agrave; &egrave; l'elemento caratterizzante..
+                            per un <b>ambiente dall'aspetto minimale</b>, dove la linearit&agrave; &egrave; l'elemento caratterizzante...
+                            -->
                         </p>
                     </div>
                 </div>
@@ -405,11 +407,59 @@
                         <div class="swiper-wrapper align-items-center">
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/laminato1.jpg" alt="">
+                                <img src="assets/img/porte/plenia1.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/laminato2.jpg" alt="">
+                                <img src="assets/img/porte/plenia2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/plenia3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/plenia4.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/plenia5.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/plenia6.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/plenia7.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/pp1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/pp2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/pp3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/pp4.jpg" alt="">
                             </div>
 
                         </div>
@@ -422,6 +472,37 @@
                         <h2 style="color: #0c3c53">Plenia</h2>
                         <h3>Informazioni tecniche prodotto</h3>
                         <p>
+                            <b>Dedicato ai razionali</b>.
+                            Tutti i modelli della linea Plenia sono realizzati in <b>legno massello</b>:
+                            il prestigio e la consistenza del legno garantiscono
+                            un'esperienza di utilizzo <b>emozionale ed emozionante</b>, tangibile al tatto e immediata
+                            alla vista. Plenia &egrave; un concetto di porta che supera la semplice funzione
+                            e diventa un qualcosa che vive all'interno dell'ambiente sprigionando una propria personalit&agrave;.
+                            <br><br>
+                            Scorrevole esterna P50UT della linea Plenia con binario in acciaio a vista,
+                            <b>legno laccato spennellato arancio</b> e vetro satinato con quattro incisioni orizzontali.
+                            Ideale per <b>ambienti smart</b> in cui la porta diventa un elemento d'arredo.
+                            <br><br>
+                            Porte per interno Plenia abbinate, realizzate in <b>frassino epoca bianco crema</b> ral 9001,
+                            con telaio lineo e cornice recta. Nello specifico, la versione P50U &egrave; stata realizzata
+                            con vetro satinato bianco con quattro incisioni orizzontali.
+                            <br><br>
+                            Per la realizzazione del modello PA12 &egrave; stato scelto il <b>pino graffiato antico</b>
+                            con telaio lineo e cornice recta. Nella prima soluzione &egrave; stata proposta nella
+                            versione inlinea permettendo la continuit&agrave; delle linee.
+                            <br><br>
+                            Plenia nelle versioni P47 e P68, realizzate in <b>legno massello noce biondo</b>.
+                            Nella prima versione si presenta con telaio lineo e cornice recta con tre
+                            bugne centrali. Nella seconda versione si &egrave; mantenuto il telaio lineo
+                            con cornice recta e si &egrave; aggiunto il vetro trasparente grigio centrale.
+                            <br><br>
+                            L'arredamento del soggiorno &egrave; stato coordinato con la realizzazione
+                            delle porte P50 e PA00 e degli sportelli inferiori. Per tutto il progetto &egrave;
+                            stato scelto il <b>rovere sbiancato</b>. Per la prima soluzione &egrave; stata realizzata una
+                            <b>scorrevole parallelo interno</b> con telaio lineo, cornice plana e vetro trasparente
+                            con stampa digitale su disegno. La versione in secondo piano &egrave; stata realizzata
+                            con telaio lineo e cornice plana.
+                            <br><br>
 
                         </p>
                     </div>
@@ -432,44 +513,27 @@
 
                 <div class="col-lg-5">
                     <div class="portfolio-info">
-                        <h2 style="color: #0c3c53">Nidio</h2>
+                        <h2 style="color: #0c3c53">Resinae</h2>
                         <h3>Informazioni tecniche prodotto</h3>
                         <p>
-                            <b>Dedicato ai creativi.</b>
-                            La linea di porte Nidio &egrave; molto versatile.
-                            Porte come opere d'arte: le stampe digitali personalizzate,
-                            gli inserti in alluminio, le placchette di acciaio e i vetri
-                            regalano un tocco di <b>luminosit&agrave; e colore allo spazio</b>,
-                            rendendolo accattivante e unico.
+                            <b>Porte in PVC</b>
+                            Il telaio e le cornici in estruso di pvc rendono
+                            queste porte <b>ideali per gli ambienti umidi</b>
+                            o luoghi dove la pulizia del pavimento viene fatta con acqua abbondante.
+                            L'anta può essere realizzata con <b>struttura in legno o interamente in pvc</b>.
+                            Il rivestimento in laminato plastico disponibile in molte varianti cromatiche
+                            permette la <b>massima personalizzazione</b> del prodotto.
                             <br><br>
-                            <b>Nidio N00 nella versione laccato lucido rosso ral 3002</b>,
-                            con telaio lineo e cornice plana. Nidio N50E nella versione laccato lucido rosso
-                            ral 3002 con telaio lineo, <b>cornice plana e vetro satinato bianco</b>.
-                            <b>Ideale per ambienti dallo stile moderno</b>.
+                            Anche i bagni pubblici dove spesso si utilizzano ingenti quantit&agrave; di acqua,
+                            possono essere completati con il modello R00 con anta tamburata rivestita in laminato
+                            plastio abet 9/10 mm colore verde 486, completata con <b>telaio in pvc colore bianco</b>.
                             <br><br>
-                            <b>Nidio NR30 con porte per interno laccato tortora</b>
-                            becker 4575 con telaio lineo e cornice ampia. In secondo piano
-                            <b>porta scorrevole parallelo interno N50E</b> color laccato tortora,
-                            con telaio lineo, cornice ampia e vetro trasparente.
-                            Le porte completano l'arredamento in modo <b>raffinato</b> con un elemento inciso
-                            Riga che si ripete nella lavorazione della porta in legno e nella satinatura del vetro.
+                            La superficie diventa <b>facile da pulire e semplice da mantenere</b>. Nello specifico
+                            il modello R00 con anta interamente in pvc a <b>doghe rivestita in laminato plastico</b>
+                            abet 9/10 mm del colore verde 451, completata con <b>telaio in pvc verde</b>.
                             <br><br>
-                            <b>Interno soggiorno con porte in frassino bianco poro aperto</b>, nella versione N15.
-                            Frontalmente &grave; presente la versione scorrevole zero con maniglia ricavata, lateralmente
-                            nella versione battente con <b>telaio lineo e cornice plana</b>.
-                            <br><br>
-                            <b>Atrio interno con doppia porta nella versione rovere effetto essenza</b>. Per ottimizzare
-                            lo spazio &egrave; stata scelta una <b>porta rototraslante</b>, per la riduzione d'ingombro,
-                            con telaio lineo e cornice ampia.
-                            <br><br>
-                            Porte <b>realizzate con pino graffiato laccato bianco</b> nel modello N05 realizzate inlinea.
-                            <b>Ideali per ambienti moderni</b> che richiedono
-                            la presenza di un elemento d'arredo lineare ma allo stesso tempo caratterizzante.
-                            <br><br>
-                            <b>Interno con porte a soffitto nella versione NM00 laccato bianco</b>. Lateralmente &egrave;
-                            presente la <b>scorrevole minimal incassato</b>, frontalmente battenti ad anta unica
-                            con cerniere a scomparsa con telaio lineo senza traverso e cornice plana. Ideali
-                            per un <b>ambiente dall'aspetto minimale</b>, dove la linearit&agrave; &egrave; l'elemento caratterizzante..
+                            Molteplici sono le varianti realizzabili per le porte realizzate nel modello R00
+                            con anta tamburata, <b>possono essere personalizzati i colori, il rivestimento, le dimensioni e gli accessori come le maniglie</b>.
                         </p>
                     </div>
                 </div>
@@ -479,74 +543,25 @@
                         <div class="swiper-wrapper align-items-center">
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio1.jpg" alt="">
+                                <img src="assets/img/porte/resinae1.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio2.jpg" alt="">
+                                <img src="assets/img/porte/resinae2.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio3.jpg" alt="">
+                                <img src="assets/img/porte/resinae3.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio2.jpg" alt="">
+                                <img src="assets/img/porte/resinae4.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio3.jpg" alt="">
+                                <img src="assets/img/porte/resinae5.jpg" alt="">
                             </div>
 
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio4.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio5.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio6.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="swiper-pagination"></div>
-                    </div>
-                    <div class="portfolio-details-slider swiper-container">
-                        <div class="swiper-wrapper align-items-center">
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np1.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np2.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np3.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np4.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="swiper-pagination"></div>
-                    </div>
-                    <div class="portfolio-details-slider swiper-container">
-                        <div class="swiper-wrapper align-items-center">
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np5.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np6.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np7.jpg" alt="">
-                            </div>
                         </div>
                         <div class="swiper-pagination"></div>
                     </div>
@@ -559,11 +574,37 @@
                         <div class="swiper-wrapper align-items-center">
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/laminato1.jpg" alt="">
+                                <img src="assets/img/porte/sn1.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/laminato2.jpg" alt="">
+                                <img src="assets/img/porte/sn2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/sn3.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/sn4.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/sn5.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/sn6.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/sn7.jpg" alt="">
                             </div>
 
                         </div>
@@ -573,10 +614,44 @@
 
                 <div class="col-lg-5">
                     <div class="portfolio-info">
-                        <h2 style="color: #0c3c53">Plenia</h2>
+                        <h2 style="color: #0c3c53">Snziale</h2>
                         <h3>Informazioni tecniche prodotto</h3>
                         <p>
-
+                            <b>Porte in vetro e alluminio</b>.
+                            Porte di stile <b>minimalista e moderno</b> che sfruttano l'eleganza e la versatilit&egrave; del vetro come elemento
+                            di arredo per ambienti quali <b>cucine, armadi a muro e divisori di ambienti</b>.
+                            Questa linea di porte dispone di <b>molteplici finiture di alluminio</b> e di un'ampia gamma di vetri,
+                            semplici o lavorati con tecniche di sabbiatura, incisione o stampa digitale.
+                            <br><br>
+                            Porta in vetro della <b>linea MONO</b>, composta da vetro singolo temperato disponibile con uno spessore
+                            da 8 mm o 4+4 mm. La scorrevole parallelo interno S00 &egrave; stata realizzata in alluminio nero ossidato
+                            e vetro trasparente grigio. Ideale per soluzioni ampie, dallo stile urban che richiedono la <b>massima luminosit&agrave;</b> degli ambienti.
+                            <br><br>
+                            Sono <b>varie le soluzioni cromatiche</b> e con lavorazione di sabbiatura, incisione e stampa digitale.
+                            Nella soluzione battente Minimale S00 &egrave; stata realizzata con il profilo in alluminio
+                            color argento e il vetro trasparente rosso.
+                            <br><br>
+                            La porta in vetro Mono, <b>versione scorrevole Essential</b> &egrave; un ottimo <b>compromesso per unire
+                                gli ambienti lasciando la giusta privacy</b>. Realizzata con profilo in alluminio ral 5012 e vetro acidato
+                            con stampa digitale modello Hippy color porpora.
+                            <br><br>
+                            L'atrio prende vita con la giusta combinazione di porte per interno.
+                            La porta in primo piano S02 è una <b>scorrevole esterna con attacco a parete</b>,
+                            composta dalla mantovana laccata ral 1019, dal bordo anta in acciaio brillante e
+                            dalla combinazione di due vetri acidati e un vetro trasparente.
+                            La porta in secondo piano &egrave; una battente SN00 con anta e telaio laccati ral 1019.
+                            <br><br>
+                            Porta per interno in vetro nella versione mono, a vetro singolo, nel modello <b>S00 Scorrevole Essential</b>.
+                            La versione con alluminio acciaio brillante e vetro acidato extra chiaro <b>permette di dividere
+                                gli spazi permettendo alla luce di filtrare in modo naturale</b>.
+                            <br><br>
+                            Porta in vetro nella versione DUO, composta da <b>doppio vetro temperato</b> disponibile con un spessore da 5 mm,
+                            realizzabile nella versione scorrevole o battente. In questa proposta è presente nella versione SD00 scorrevole
+                            Essential con alluminio laccato nero e vetro trasparente grigio.
+                            <br><br>
+                            Il soggiorno prende vita con le porte in vetro DUO nelle versioni <b>SD00 battente cover e SD00 scorrevole
+                                a scomparsa</b>, entrambe realizzate con alluminio laccato grey black e vetro acidato.
+                            Ideali per <b>uniformare l'ambiente mantenendo uno stile minimal dalla massima luminosità</b>.
                         </p>
                     </div>
                 </div>
@@ -586,44 +661,39 @@
 
                 <div class="col-lg-5">
                     <div class="portfolio-info">
-                        <h2 style="color: #0c3c53">Nidio</h2>
+                        <h2 style="color: #0c3c53">Talea</h2>
                         <h3>Informazioni tecniche prodotto</h3>
                         <p>
-                            <b>Dedicato ai creativi.</b>
-                            La linea di porte Nidio &egrave; molto versatile.
-                            Porte come opere d'arte: le stampe digitali personalizzate,
-                            gli inserti in alluminio, le placchette di acciaio e i vetri
-                            regalano un tocco di <b>luminosit&agrave; e colore allo spazio</b>,
-                            rendendolo accattivante e unico.
+                            <b>Dedicato ai romantici</b>.
+                            Le porte della linea Talea si distinguono per l'incisione pantografata, in versione "classica" che riprende
+                            la sagoma delle bugne in massello, e in una versione pi&ugrave; "stretta" che &egrave; un'evoluzione del concetto
+                            di incisione. <b>Tante le forme geometriche</b> che &egrave; possibile realizzare, tutti i modelli sono disponibili
+                            in <b>legno laccato – liscio o goffrato – o nelle essenze toulipier e frassino</b> oltre che con anta in vetro.
                             <br><br>
-                            <b>Nidio N00 nella versione laccato lucido rosso ral 3002</b>,
-                            con telaio lineo e cornice plana. Nidio N50E nella versione laccato lucido rosso
-                            ral 3002 con telaio lineo, <b>cornice plana e vetro satinato bianco</b>.
-                            <b>Ideale per ambienti dallo stile moderno</b>.
+                            Atrio con porte pantografate Talea nella versione T42 modello cieco, laccato giallo becker 9471, con telaio lineo
+                            e cornice recta. Lavorata con pantografatura classica che <b>valorizza lo spessore e la qualit&agrave; del legno</b>.
+                            Questa tipologia di lavorazione pu&ograve; essere realizzata con angoli dritti oppure arrotondati.
                             <br><br>
-                            <b>Nidio NR30 con porte per interno laccato tortora</b>
-                            becker 4575 con telaio lineo e cornice ampia. In secondo piano
-                            <b>porta scorrevole parallelo interno N50E</b> color laccato tortora,
-                            con telaio lineo, cornice ampia e vetro trasparente.
-                            Le porte completano l'arredamento in modo <b>raffinato</b> con un elemento inciso
-                            Riga che si ripete nella lavorazione della porta in legno e nella satinatura del vetro.
+                            Porte interne della linea Talea in frassino epoca bianco ral 9016. Modello T72 realizzata con telaio lineo,
+                            cornice recta e <b>vetro satinato modello vento</b>. Il modello in secondo piano T32 è realizzato con telaio lineo
+                            e cornice recta con lavorazione pantografata classica.
                             <br><br>
-                            <b>Interno soggiorno con porte in frassino bianco poro aperto</b>, nella versione N15.
-                            Frontalmente &grave; presente la versione scorrevole zero con maniglia ricavata, lateralmente
-                            nella versione battente con <b>telaio lineo e cornice plana</b>.
+                            Modello TS20F realizzato in laccato grigio 0238 con telaio lineo, cornice unghiata e capitello A.
+                            Un <b>modello classico che arreda anche gli ambienti pi&ugrave; eleganti</b>. In questo caso %&egrave; ad
+                            ad anta singola e ad anta doppia con la stessa pantografatura stretta che <b>arricchisce l'estetica senza appesantirla</b>.
                             <br><br>
-                            <b>Atrio interno con doppia porta nella versione rovere effetto essenza</b>. Per ottimizzare
-                            lo spazio &egrave; stata scelta una <b>porta rototraslante</b>, per la riduzione d'ingombro,
-                            con telaio lineo e cornice ampia.
+                            Porte per interno classico nella versione Talea modello T64 e T24. Nella prima versione &egrave; stata
+                            realizzata con telaio radius, cornice sagoma e vetro satinato arancio. Nella seconda versione &egrave;
+                            stato mantenuto il legno laccato bianco con telaio radius e cornice sagoma. Entrambe le porte
+                            sono state <b>impreziosite con la lavorazione artigianale Lusso</b>: la vernice giallo acra, che
+                            richiama l'oro, delinea i bordi della pantografatura e dei montanti. La <b>stesura del colore viene
+                                fatta a mano</b>, per questo l'effetto finale &egrave; <b>naturale ed unico</b>.
                             <br><br>
-                            Porte <b>realizzate con pino graffiato laccato bianco</b> nel modello N05 realizzate inlinea.
-                            <b>Ideali per ambienti moderni</b> che richiedono
-                            la presenza di un elemento d'arredo lineare ma allo stesso tempo caratterizzante.
-                            <br><br>
-                            <b>Interno con porte a soffitto nella versione NM00 laccato bianco</b>. Lateralmente &egrave;
-                            presente la <b>scorrevole minimal incassato</b>, frontalmente battenti ad anta unica
-                            con cerniere a scomparsa con telaio lineo senza traverso e cornice plana. Ideali
-                            per un <b>ambiente dall'aspetto minimale</b>, dove la linearit&agrave; &egrave; l'elemento caratterizzante..
+                            Nella prima versione &egrave; stata realizzata la porta per interno nella versione scorrevole
+                            esterna con binario a vista in acciaio, legno laccato bianco grigio ral 9002. Per la seconda versione
+                            sono state scelte due porte modello TQ00 con telaio lineo, cornice quadra in laccato bianco
+                            puro ral 9010, lavorate con pantografatura quadra: un <b>doppio disegno squadrato e regolare sfrutta i
+                                volumi e lo spessore del legno per creare un insolito gioco di luce</b>.
                         </p>
                     </div>
                 </div>
@@ -633,35 +703,33 @@
                         <div class="swiper-wrapper align-items-center">
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio1.jpg" alt="">
+                                <img src="assets/img/porte/talea1.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio2.jpg" alt="">
+                                <img src="assets/img/porte/talea2.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio3.jpg" alt="">
+                                <img src="assets/img/porte/talea3.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/talea4.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio2.jpg" alt="">
+                                <img src="assets/img/porte/talea5.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio3.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio4.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio5.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/nidio6.jpg" alt="">
+                                <img src="assets/img/porte/talea6.jpg" alt="">
                             </div>
                         </div>
                         <div class="swiper-pagination"></div>
@@ -670,36 +738,15 @@
                         <div class="swiper-wrapper align-items-center">
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/np1.jpg" alt="">
+                                <img src="assets/img/porte/taleap1.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/np2.jpg" alt="">
+                                <img src="assets/img/porte/taleap2.jpg" alt="">
                             </div>
 
                             <div class="swiper-slide">
-                                <img src="assets/img/porte/np3.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np4.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="swiper-pagination"></div>
-                    </div>
-                    <div class="portfolio-details-slider swiper-container">
-                        <div class="swiper-wrapper align-items-center">
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np5.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np6.jpg" alt="">
-                            </div>
-
-                            <div class="swiper-slide">
-                                <img src="assets/img/porte/np7.jpg" alt="">
+                                <img src="assets/img/porte/taleap3.jpg" alt="">
                             </div>
                         </div>
                         <div class="swiper-pagination"></div>

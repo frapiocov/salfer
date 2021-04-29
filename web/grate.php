@@ -73,7 +73,7 @@
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
-
+            <img src="assets/img/fornitori/xmlid_23_.png" class="img-fluid" alt="">
             <h2>Grate Fisse e Apribili fer Art</h2>
 
         </div>

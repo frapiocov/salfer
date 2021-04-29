@@ -73,7 +73,7 @@
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
-
+            <img src="assets/img/fornitori/tenditalia.png" class="img-fluid" alt="">
             <h2>Tende da sole</h2>
             <p>
                 Le tende <b>Tenditalia</b> sono completamente <b> realizzate a mano</b>

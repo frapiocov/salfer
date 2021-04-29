@@ -73,8 +73,8 @@
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
-
-            <h2>Tapparelle Avvolgibili e Orientabili</h2>
+            <img src="assets/img/fornitori/croci.png" width="140" height="100" class="img-fluid" alt="">
+            <h2>Tapparelle Avvolgibili e Orientabili CROCI</h2>
             <p>
                 Le Tapparelle avvolgibili della CROCI offrono una <b>durabilit&agrave;</b> straordinaria
                 unita alla facile e quasi inesistente manutenzione.
