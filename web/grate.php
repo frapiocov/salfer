@@ -56,7 +56,7 @@
                         <li><a href="sezionali.php">Portoni sezionali</a></li>
                         <li><a href="grate.php">Grate</a></li>
                         <li><a href="tende.php">Tende da sole</a></li>
-                        <li><a href="avvolgibili.php">Tapparelle avvolgibili</a></li>
+                        <li><a href="avvolgibili.php">Tapparelle</a></li>
                         <li><a href="ringhiere.php">Ringhiere</a></li>
                     </ul>
                 </li>
@@ -193,7 +193,7 @@
 
             </div>
 
-            <div class="row gy-4 section-bg m-1" data-aos="fade-up">
+            <div class="row gy-4 section-bg p-2 m-1" data-aos="fade-up">
                 <div class="col-lg-6">
                     <h3>Colorazioni disponibili</h3>
                     <img src="assets/img/grate/colori_grate.jpg" class="img-fluid" alt="color">

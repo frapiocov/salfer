@@ -58,7 +58,7 @@
                         <li><a href="sezionali.php">Portoni sezionali</a></li>
                         <li><a href="grate.php">Grate</a></li>
                         <li><a href="tende.php">Tende da sole</a></li>
-                        <li><a href="avvolgibili.php">Tapparelle avvolgibili</a></li>
+                        <li><a href="avvolgibili.php">Tapparelle</a></li>
                         <li><a href="ringhiere.php">Ringhiere</a></li>
                     </ul>
                 </li>
@@ -371,12 +371,12 @@
                 <ul>
                     <li data-aos="fade-up" data-aos-delay="100">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
-                                                                       data-bs-target="#faq-list-1">In quanto tempo avr&grave;
+                                                                       data-bs-target="#faq-list-1">In quanto tempo avr&ograve;
                             i miei infissi? <i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                             <p>
-                                Velocit&agrave; e comodit&agrave; sono la chiave del nostro negozio.
+                                Velocit&agrave; ed efficienz&agrave; sono la chiave del nostro negozio.
                             </p>
                         </div>
                     </li>

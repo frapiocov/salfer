@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Salfer Infissi - Avvolgibili</title>
+    <title>Salfer Infissi - Tapparelle</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -56,7 +56,7 @@
                         <li><a href="sezionali.php">Portoni sezionali</a></li>
                         <li><a href="grate.php">Grate</a></li>
                         <li><a href="tende.php">Tende da sole</a></li>
-                        <li><a href="avvolgibili.php">Tapparelle avvolgibili</a></li>
+                        <li><a href="avvolgibili.php">Tapparelle</a></li>
                         <li><a href="ringhiere.php">Ringhiere</a></li>
                     </ul>
                 </li>
@@ -74,7 +74,7 @@
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
 
-            <h2>Tapparelle Avvolgibili</h2>
+            <h2>Tapparelle Avvolgibili e Orientabili</h2>
             <p>
                 Le Tapparelle avvolgibili della CROCI offrono una <b>durabilit&agrave;</b> straordinaria
                 unita alla facile e quasi inesistente manutenzione.

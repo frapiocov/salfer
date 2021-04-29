@@ -56,7 +56,7 @@
                         <li><a href="sezionali.php">Portoni sezionali</a></li>
                         <li><a href="grate.php">Grate</a></li>
                         <li><a href="tende.php">Tende da sole</a></li>
-                        <li><a href="avvolgibili.php">Tapparelle avvolgibili</a></li>
+                        <li><a href="avvolgibili.php">Tapparelle</a></li>
                         <li><a href="ringhiere.php">Ringhiere</a></li>
                     </ul>
                 </li>

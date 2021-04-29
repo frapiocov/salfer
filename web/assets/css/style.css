@@ -566,6 +566,7 @@ section {
 .menu-door {
     filter: grayscale(100);
     transition: all 0.4s ease-in-out;
+    border-radius: 8px;
 }
 
 .menu-door:hover {

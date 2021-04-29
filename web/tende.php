@@ -56,7 +56,7 @@
                         <li><a href="sezionali.php">Portoni sezionali</a></li>
                         <li><a href="grate.php">Grate</a></li>
                         <li><a href="tende.php">Tende da sole</a></li>
-                        <li><a href="avvolgibili.php">Tapparelle avvolgibili</a></li>
+                        <li><a href="avvolgibili.php">Tapparelle</a></li>
                         <li><a href="ringhiere.php">Ringhiere</a></li>
                     </ul>
                 </li>
@@ -90,7 +90,7 @@
         <div class="container">
 
             <!--atlantica-->
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 m-1" data-aos="fade-up">
 
                 <div class="col-lg-8">
                     <div class="portfolio-details-slider swiper-container">
@@ -126,7 +126,7 @@
             </div>
 
             <!--mediterranea-->
-            <div class="row gy-4 section-bg" data-aos="fade-up">
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
 
                 <div class="col-lg-4">
                     <div class="portfolio-info">
@@ -167,7 +167,7 @@
             </div>
 
             <!--tevere-->
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 m-1" data-aos="fade-up">
 
                 <div class="col-lg-8">
                     <div class="portfolio-details-slider swiper-container">
@@ -201,7 +201,7 @@
             </div>
 
             <!--versilia-->
-            <div class="row gy-4 section-bg" data-aos="fade-up">
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
 
                 <div class="col-lg-4">
                     <div class="portfolio-info">
@@ -235,7 +235,7 @@
             </div>
 
             <!--fissa-->
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 m-1" data-aos="fade-up">
 
                 <div class="col-lg-8">
                     <div class="portfolio-details-slider swiper-container">
@@ -269,7 +269,7 @@
             </div>
 
             <!--cupola-->
-            <div class="row gy-4 section-bg" data-aos="fade-up">
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
 
                 <div class="col-lg-4">
                     <div class="portfolio-info">
@@ -302,7 +302,7 @@
             </div>
 
             <!--Standard-->
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 m-1" data-aos="fade-up">
 
                 <div class="col-lg-8">
                     <div class="portfolio-details-slider swiper-container">
@@ -337,7 +337,7 @@
             </div>
 
             <!--stile-->
-            <div class="row gy-4 section-bg" data-aos="fade-up">
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
 
                 <div class="col-lg-4">
                     <div class="portfolio-info">

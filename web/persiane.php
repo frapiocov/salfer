@@ -56,7 +56,7 @@
                         <li><a href="sezionali.php">Portoni sezionali</a></li>
                         <li><a href="grate.php">Grate</a></li>
                         <li><a href="tende.php">Tende da sole</a></li>
-                        <li><a href="avvolgibili.php">Tapparelle avvolgibili</a></li>
+                        <li><a href="avvolgibili.php">Tapparelle</a></li>
                         <li><a href="ringhiere.php">Ringhiere</a></li>
                     </ul>
                 </li>
@@ -87,7 +87,7 @@
         <div class="container">
 
             <!--piatte-->
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 m-1" data-aos="fade-up">
 
                 <div class="col-lg-7">
                     <div class="portfolio-details-slider swiper-container">
@@ -136,7 +136,7 @@
 
             </div>
             <!--bombate-->
-            <div class="row gy-4 section-bg" data-aos="fade-up">
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
 
                 <div class="col-lg-5">
                     <div class="portfolio-info">
@@ -184,7 +184,7 @@
 
             </div>
             <!--blindate classiche-->
-            <div class="row gy-4" data-aos="fade-up">
+            <div class="row gy-4 m-1" data-aos="fade-up">
 
                 <div class="col-lg-7">
                     <div class="portfolio-details-slider swiper-container">
@@ -231,7 +231,7 @@
 
             </div>
 
-            <div class="row gy-4 section-bg">
+            <div class="row gy-4 m-1 section-bg">
                 <div class="col-lg-4">
 
                 </div>

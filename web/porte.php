@@ -56,7 +56,7 @@
                         <li><a href="sezionali.php">Portoni sezionali</a></li>
                         <li><a href="grate.php">Grate</a></li>
                         <li><a href="tende.php">Tende da sole</a></li>
-                        <li><a href="avvolgibili.php">Tapparelle avvolgibili</a></li>
+                        <li><a href="avvolgibili.php">Tapparelle</a></li>
                         <li><a href="ringhiere.php">Ringhiere</a></li>
                     </ul>
                 </li>
@@ -305,14 +305,322 @@
                             nella versione battente con <b>telaio lineo e cornice plana</b>.
                             <br><br>
                             <b>Atrio interno con doppia porta nella versione rovere effetto essenza</b>. Per ottimizzare
-                            lo spazio &grave; stata scelta una <b>porta rototraslante</b>, per la riduzione d'ingombro,
+                            lo spazio &egrave; stata scelta una <b>porta rototraslante</b>, per la riduzione d'ingombro,
                             con telaio lineo e cornice ampia.
                             <br><br>
                             Porte <b>realizzate con pino graffiato laccato bianco</b> nel modello N05 realizzate inlinea.
                             <b>Ideali per ambienti moderni</b> che richiedono
                             la presenza di un elemento d'arredo lineare ma allo stesso tempo caratterizzante.
                             <br><br>
-                            <b>Interno con porte a soffitto nella versione NM00 laccato bianco</b>. Lateralmente &grave;
+                            <b>Interno con porte a soffitto nella versione NM00 laccato bianco</b>. Lateralmente &egrave;
+                            presente la <b>scorrevole minimal incassato</b>, frontalmente battenti ad anta unica
+                            con cerniere a scomparsa con telaio lineo senza traverso e cornice plana. Ideali
+                            per un <b>ambiente dall'aspetto minimale</b>, dove la linearit&agrave; &egrave; l'elemento caratterizzante..
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-7">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio4.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio5.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio6.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np4.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np5.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np6.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np7.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+            <!--plenia-->
+            <div class="row gy-4 section-bg m-1" id="plenia" data-aos="fade-up">
+                <div class="col-lg-7">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/laminato1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/laminato2.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Plenia</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--resinae-->
+            <div class="row gy-4 m-1" id="resinae" data-aos="fade-up">
+
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Nidio</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+                            <b>Dedicato ai creativi.</b>
+                            La linea di porte Nidio &egrave; molto versatile.
+                            Porte come opere d'arte: le stampe digitali personalizzate,
+                            gli inserti in alluminio, le placchette di acciaio e i vetri
+                            regalano un tocco di <b>luminosit&agrave; e colore allo spazio</b>,
+                            rendendolo accattivante e unico.
+                            <br><br>
+                            <b>Nidio N00 nella versione laccato lucido rosso ral 3002</b>,
+                            con telaio lineo e cornice plana. Nidio N50E nella versione laccato lucido rosso
+                            ral 3002 con telaio lineo, <b>cornice plana e vetro satinato bianco</b>.
+                            <b>Ideale per ambienti dallo stile moderno</b>.
+                            <br><br>
+                            <b>Nidio NR30 con porte per interno laccato tortora</b>
+                            becker 4575 con telaio lineo e cornice ampia. In secondo piano
+                            <b>porta scorrevole parallelo interno N50E</b> color laccato tortora,
+                            con telaio lineo, cornice ampia e vetro trasparente.
+                            Le porte completano l'arredamento in modo <b>raffinato</b> con un elemento inciso
+                            Riga che si ripete nella lavorazione della porta in legno e nella satinatura del vetro.
+                            <br><br>
+                            <b>Interno soggiorno con porte in frassino bianco poro aperto</b>, nella versione N15.
+                            Frontalmente &grave; presente la versione scorrevole zero con maniglia ricavata, lateralmente
+                            nella versione battente con <b>telaio lineo e cornice plana</b>.
+                            <br><br>
+                            <b>Atrio interno con doppia porta nella versione rovere effetto essenza</b>. Per ottimizzare
+                            lo spazio &egrave; stata scelta una <b>porta rototraslante</b>, per la riduzione d'ingombro,
+                            con telaio lineo e cornice ampia.
+                            <br><br>
+                            Porte <b>realizzate con pino graffiato laccato bianco</b> nel modello N05 realizzate inlinea.
+                            <b>Ideali per ambienti moderni</b> che richiedono
+                            la presenza di un elemento d'arredo lineare ma allo stesso tempo caratterizzante.
+                            <br><br>
+                            <b>Interno con porte a soffitto nella versione NM00 laccato bianco</b>. Lateralmente &egrave;
+                            presente la <b>scorrevole minimal incassato</b>, frontalmente battenti ad anta unica
+                            con cerniere a scomparsa con telaio lineo senza traverso e cornice plana. Ideali
+                            per un <b>ambiente dall'aspetto minimale</b>, dove la linearit&agrave; &egrave; l'elemento caratterizzante..
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-7">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio4.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio5.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/nidio6.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np4.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np5.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np6.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/np7.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+            <!--snziale-->
+            <div class="row gy-4 section-bg m-1" id="snziale" data-aos="fade-up">
+                <div class="col-lg-7">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/laminato1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/porte/laminato2.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Plenia</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--talea-->
+            <div class="row gy-4 m-1" id="talea" data-aos="fade-up">
+
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Nidio</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+                            <b>Dedicato ai creativi.</b>
+                            La linea di porte Nidio &egrave; molto versatile.
+                            Porte come opere d'arte: le stampe digitali personalizzate,
+                            gli inserti in alluminio, le placchette di acciaio e i vetri
+                            regalano un tocco di <b>luminosit&agrave; e colore allo spazio</b>,
+                            rendendolo accattivante e unico.
+                            <br><br>
+                            <b>Nidio N00 nella versione laccato lucido rosso ral 3002</b>,
+                            con telaio lineo e cornice plana. Nidio N50E nella versione laccato lucido rosso
+                            ral 3002 con telaio lineo, <b>cornice plana e vetro satinato bianco</b>.
+                            <b>Ideale per ambienti dallo stile moderno</b>.
+                            <br><br>
+                            <b>Nidio NR30 con porte per interno laccato tortora</b>
+                            becker 4575 con telaio lineo e cornice ampia. In secondo piano
+                            <b>porta scorrevole parallelo interno N50E</b> color laccato tortora,
+                            con telaio lineo, cornice ampia e vetro trasparente.
+                            Le porte completano l'arredamento in modo <b>raffinato</b> con un elemento inciso
+                            Riga che si ripete nella lavorazione della porta in legno e nella satinatura del vetro.
+                            <br><br>
+                            <b>Interno soggiorno con porte in frassino bianco poro aperto</b>, nella versione N15.
+                            Frontalmente &grave; presente la versione scorrevole zero con maniglia ricavata, lateralmente
+                            nella versione battente con <b>telaio lineo e cornice plana</b>.
+                            <br><br>
+                            <b>Atrio interno con doppia porta nella versione rovere effetto essenza</b>. Per ottimizzare
+                            lo spazio &egrave; stata scelta una <b>porta rototraslante</b>, per la riduzione d'ingombro,
+                            con telaio lineo e cornice ampia.
+                            <br><br>
+                            Porte <b>realizzate con pino graffiato laccato bianco</b> nel modello N05 realizzate inlinea.
+                            <b>Ideali per ambienti moderni</b> che richiedono
+                            la presenza di un elemento d'arredo lineare ma allo stesso tempo caratterizzante.
+                            <br><br>
+                            <b>Interno con porte a soffitto nella versione NM00 laccato bianco</b>. Lateralmente &egrave;
                             presente la <b>scorrevole minimal incassato</b>, frontalmente battenti ad anta unica
                             con cerniere a scomparsa con telaio lineo senza traverso e cornice plana. Ideali
                             per un <b>ambiente dall'aspetto minimale</b>, dove la linearit&agrave; &egrave; l'elemento caratterizzante..
