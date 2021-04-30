@@ -171,9 +171,12 @@
                         <h3>Informazioni tecniche prodotto</h3>
                         <p>
                             Pannello-Astro-Microdiamantato.
-                            Il modello Astro si riconosce dall'originalit&agrave; dei pannelli caratterizzati e dal <b>disegno microdiamantato</b>.
-                            Il riflesso della luce sulla superficie del manto crea un <b>gradevole gioco di righe chiaro-scuro</b>.
-                            Viene richiesto soprattutto nelle <b>ambientazioni moderne</b> dove prevale l'utilizzo del metallo. Non a caso,
+                            Il modello Astro si riconosce dall'originalit&agrave; dei pannelli caratterizzati e dal <b>disegno
+                                microdiamantato</b>.
+                            Il riflesso della luce sulla superficie del manto crea un <b>gradevole gioco di righe
+                                chiaro-scuro</b>.
+                            Viene richiesto soprattutto nelle <b>ambientazioni moderne</b> dove prevale l'utilizzo del
+                            metallo. Non a caso,
                             il colore pi&ugrave; utilizzato per questo modello &egrave; il Grigio Metallizzato Ral 9006.
                         </p>
                     </div>
@@ -188,11 +191,16 @@
                         <h3>Informazioni tecniche prodotto</h3>
                         <p>
                             Il modello Canova &egrave; la soluzione ideale per la chiusura dei garage
-                            collocati in contesti architettonici <b>dove la presenza del legno &egrave; un elemento predominante</b>.
-                            Il portone sezionale Canova conserva la stessa struttura dei portoni realizzati con i pannelli di lamiera
-                            di acciaio, con l'unica differenza che <b>il manto &egrave; composto da pannelli di legno massello</b>.
-                            Lo stile inconfondibile del legno lo si percepisce dai disegni proposti: cassettoni, doghe orizzontali
-                            o verticali ma &egrave; possibile scegliere anche tra una <b>vasta gamma di pantografati,</b>
+                            collocati in contesti architettonici <b>dove la presenza del legno &egrave; un elemento
+                                predominante</b>.
+                            Il portone sezionale Canova conserva la stessa struttura dei portoni realizzati con i
+                            pannelli di lamiera
+                            di acciaio, con l'unica differenza che <b>il manto &egrave; composto da pannelli di legno
+                                massello</b>.
+                            Lo stile inconfondibile del legno lo si percepisce dai disegni proposti: cassettoni, doghe
+                            orizzontali
+                            o verticali ma &egrave; possibile scegliere anche tra una <b>vasta gamma di
+                                pantografati,</b>
                             anche su disegno specifico del cliente.
                             <br><br>
                             I <b>materiali</b> normalmente utilizzati sono il Larice, l'Abete, il Pino Russo Fenolico,
@@ -253,9 +261,11 @@
                         <p>
                             Ideale per restare sul classico.
                             Il modello Edison si identifica come il <b>modello pi&ugrave; tradizionale</b>;
-                            &egrave; indiscutibilmente il disegno che <b>ha contraddistinto la storia del portone sezionale</b>.
+                            &egrave; indiscutibilmente il disegno che <b>ha contraddistinto la storia del portone
+                                sezionale</b>.
                             La sintesi della robustezza: le righe longitudinali, oltre a rappresentare un motivo,
-                            fungono da <b>nervature di irrigidimento</b> della lamiera e per questo lo si consiglia anche
+                            fungono da <b>nervature di irrigidimento</b> della lamiera e per questo lo si consiglia
+                            anche
                             per portoni di grandi dimensioni.
                         </p>
                     </div>
@@ -273,7 +283,8 @@
                             tra i pannelli molto marcato, <b>mettendo in risalto le grandi doghe</b>.
                             Arricchisce la gi&agrave; ampia gamma di soluzioni e modelli che consentono nuove varianti
                             per <b>realizzazioni sempre più esclusive</b>.
-                            I colori simil Legno sono quelli che pi&ugrave; si addicono per Gamma ma non dispiacciono i colori a <b>tinta pastello</b>.
+                            I colori simil Legno sono quelli che pi&ugrave; si addicono per Gamma ma non dispiacciono i
+                            colori a <b>tinta pastello</b>.
                         </p>
                     </div>
                 </div>
@@ -324,7 +335,8 @@
                             che ben <b>si armonizza con il classico ed il moderno, il contemporaneo e il futuristico</b>.
 
                             Nulla &egrave; lasciato al caso ma tutto &egrave; frutto di una <b>meticolosa analisi
-                                e scelta dei materiali</b>; questa &egrave; la filosofia della Ferraro per il portone Lennox,
+                                e scelta dei materiali</b>; questa &egrave; la filosofia della Ferraro per il portone
+                            Lennox,
                             oggi uno dei sezionali più affidabili tra quelli in commercio.
                         </p>
                     </div>
@@ -343,7 +355,8 @@
                             o dell'autofficina è questione di sicurezza, la risposta &egrave; Genius Light.
 
                             Il portone sezionale Genius nella versione Light conserva la medesima struttura
-                            con l'unica differenza che <b>il manto &egrave; composto da pannelli finestrati realizzati con profili di alluminio estruso</b>.
+                            con l'unica differenza che <b>il manto &egrave; composto da pannelli finestrati realizzati
+                                con profili di alluminio estruso</b>.
 
                             <b>Pu&ograve; essere interamente finestrato per ottenere la massima luminosit&agrave; o
                                 areazione</b> oppure i pannelli finestrati si possono alternare a quelli coibentati
@@ -424,17 +437,21 @@
                         <h2 style="color: #0c3c53">Master</h2>
                         <h3>Informazioni tecniche prodotto</h3>
                         <p>
-                            Master: <b>un mix vincente di sobriet&egrave; ed eleganza</b> espressa dalla semplicit&agrave; dei pannelli.
+                            Master: <b>un mix vincente di sobriet&egrave; ed eleganza</b> espressa dalla semplicit&agrave;
+                            dei pannelli.
                             Nessuna doga, nessuna riga ma solo lamiera piana che esalta la perfezione
                             e nel contempo manifesta una <b>maestosa imponenza</b>; per queste peculiarit&agrave;
-                            Master <b>si adatta a qualsiasi contesto urbanistico</b>, convincendo anche i clienti pi&ugrave; indecisi.
+                            Master <b>si adatta a qualsiasi contesto urbanistico</b>, convincendo anche i clienti pi&ugrave;
+                            indecisi.
 
-                            Per poter montare Genius occorre poco spazio; gli ingombri laterali e superiori sono ridottissimi
+                            Per poter montare Genius occorre poco spazio; gli ingombri laterali e superiori sono
+                            ridottissimi
                             per cui la dimensione del vano &egrave; quasi interamente sfruttabile.
 
                             Se volete differenziarvi, il modello Master &egrave; quello che pi&ugrave; si predispone
                             per la <b>personalizzazione estetica</b> del portone con l'applicazione di decori in metallo
-                            o per riprodurre sull'intera superficie del portone, la <b>stampa digitalizzata</b> di immagini a scelta dal cliente.
+                            o per riprodurre sull'intera superficie del portone, la <b>stampa digitalizzata</b> di
+                            immagini a scelta dal cliente.
                         </p>
                     </div>
                 </div>
@@ -462,6 +479,214 @@
                         </div>
                         <div class="swiper-pagination"></div>
                     </div>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1 text-center" data-aos="fade-up">
+                <h2 style="color: #0c3c53">Maggiori informazioni per i sezionali Salfer</h2>
+            </div>
+
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
+                <div class="col-lg-2 text-center">
+                    <h2 style="color: #0c3c53">
+                        M<br>A<br>N<br>T<br>O
+                    </h2>
+                </div>
+                <div class="col-lg-8">
+                    <p>
+                        Il manto dei Portoni Sezionali Genius &egrave; composto da pannelli coibentati di spessore 40
+                        mm,
+                        realizzati da <b>doppia lamiera di acciaio zincato preverniciato</b> (versione Classic) o
+                        plastificato
+
+                        (versione Elegant), con interposta schiuma poliuretanica ad alta densit&agrave; ed esente da CFC
+                        che assicura al portone sezionale Genius un <b>ridotto coefficiente di trasmittanza termica</b>
+
+                        ed un <b>ottimale isolamento acustico</b>, grazie anche all'interruzione del ponte termico tra
+                        lamiera esterna ed interna.
+                        La particolare sezione del pannello <b>garantisce l'antipizzicamento</b> delle dita secondo la
+                        norma EN12604.
+
+                        A seconda della dimensione dei portoni e/o del colore dei pannelli, vengono <b>applicati
+                            all'interno profili
+                            di rinforzo</b> ad omega di acciaio verniciato Bianco Ral 9010
+                    </p>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1" data-aos="fade-up">
+
+                <div class="col-lg-8">
+                    <p>
+                        Le guide di scorrimento sono realizzate con <b>profili di acciaio</b> di adeguato spessore
+                        e di sezione tale da contenere le <b>ruote in nylon</b> che supportano i pannelli.
+
+                        <b>Speciali piastre d'angolo autoportanti</b>, fissate all'estremità superiore dei profili
+                        angolari,
+                        sostengono il gruppo molle di bilanciamento e la veletta esterna quando richiesta.
+                        <br><br>
+                        Il tratto orizzontale di scorrimento &egrave; costituito da un <b>doppio profilo guida</b> di
+                        cui
+                        quello posizionato in basso ha il terminale curvo che si attesta perfettamente con
+                        la guida verticale per consentire la <b>continuit&agrave; di scorrimento del portone</b>.
+
+                        La seconda guida (posizionata verso il soffitto) termina con una curva tronca
+                        nella quale viene incanalata solo la ruota posizionata sulla parte superiore
+                        dell’ultimo pannello con lo scopo di <b>garantire la perfetta chiusura del manto</b>.
+                        La doppia guida viene fissata alla muratura mediante staffe angolari pre-forate.
+                    </p>
+                </div>
+                <div class="col-lg-2 text-center">
+                    <h2 style="color: #0c3c53">
+                        G<br>U<br>I<br>D<br>E
+                    </h2>
+                </div>
+
+            </div>
+
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
+                <div class="col-lg-3 text-center">
+                    <h2 style="color: #0c3c53">
+                        SISTEMA
+                        DI
+                        BILANCIAMENTO
+                    </h2>
+                </div>
+                <div class="col-lg-7">
+                    <p>
+                        Il bilanciamento del portone sezionale &egrave; assicurato da molle di torsione di <b>acciaio
+                            armonico zincato</b>.
+                        Le molle sono fissate sull'albero tramite <b>mandrini di alluminio pressofuso</b>; l'albero
+                        &egrave; di
+                        acciaio zincato di adeguato spessore ed &egrave; di sezione tubolare con cava per
+                        l'alloggiamento
+                        delle chiavette di sicurezza.
+                        <br><br>
+                        Sull'estremità sono fissati i <b>tamburi di alluminio</b> sui quali si avvolgono <b>le funi di
+                            acciaio</b>
+                        che sollevano il portone. Il sistema &egrave; calcolato per un <b> utilizzo di 15.000 cicli 4
+                            cicli giorno
+                            per 10 anni</b> ma a richiesta pu&ograve; essere fornito un sistema per uso intensivo sino a
+                        100.000 cicli.
+
+                        Il carter copri molle, quando previsto o richiesto, &egrave; realizzato in acciaio preverniciato
+                        colore bianco.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <div class="col-lg-7">
+                    <p>
+                        Al fine di non arrecare danni a persone e cose, il sezionale &egrave; <b>corredato di dispositivi di sicurezza
+                            che bloccano la movimentazione del portone in caso di rottura</b> dei cavi di sollevamento e delle molle di torsione.
+                        Ove previsto o se richiesti, vengono applicate sulle ruote di scorrimento <b>speciali protezioni in nylon che evitano
+                            lo schiacciamento delle dita</b> durante il funzionamento del portone.
+                    </p>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <h2 style="color: #0c3c53">
+                        SICUREZZA
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
+                <div class="col-lg-3 text-center">
+                    <h2 style="color: #0c3c53">
+                        CHIUSURA
+                    </h2>
+                </div>
+                <div class="col-lg-7">
+                    <p>
+                        Sul portone viene sempre applicata una <b>impugnatura di materiale plastico con marchio Ferraro</b>;
+                        per assicurare la chiusura del portone, a richiesta, pu&ograve; essere applicato internamente un <b>chiavistello
+                            di acciaio</b> (accertarsi che nel garage sia presente un altro accesso o il portone sezionale abbia
+                        inserito una porta pedonale) o una serratura con cilindro e pomolo esterno.
+
+                        Nei portoni apribili con motori a traino (a richiesta), la chiusura del portone
+                        &egrave; <b>garantita dall'azione ostativa del motore</b> che blocca l'apertura anche quando non c'&egrave;
+                        energia elettrica,
+                        mentre per quelli apribili con motore laterale a richiesta, viene applicata una <b>serratura elettrica che
+                            si attiva automaticamente</b> alla chiusura del portone.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <div class="col-lg-7">
+                    <p>
+                        Il portone viene normalmente fornito per un <b>funzionamento manuale</b>;
+                        a richiesta può essere corredato con motori monofase 220V-50Hz del tipo a traino
+                        che <b>rilevano automaticamente gli eventuali ostacoli</b> durante la discesa
+                        e la salita invertendo o bloccando la manovra.
+                        &Egrave; inoltre possibile applicare <b>motori laterali</b> che intervengono direttamente sull'albero molle.
+
+                        A richiesta sono disponibili vari accessori di manovra.
+                    </p>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <h2 style="color: #0c3c53">
+                        FUNZIONAMENTO
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
+                <div class="col-lg-3 text-center">
+                    <h2 style="color: #0c3c53">
+                        ETICHETTATURA CE
+                    </h2>
+                </div>
+                <div class="col-lg-7">
+                    <p>
+                        Il portone viene sempre corredato da una <b>targa CE con matricola di riferimento,
+                            manuale di installazione</b>, uso – manutenzione – sicurezza e Dichiarazione
+                        di Prestazione DoP in conformit&agrave; al nuovo Regolamento sui Materiali
+                        da Costruzione 305/2011 CPR ed in ottemperanza alla norma armonizzata EN 13241-1.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <div class="col-lg-7">
+                    <p>
+                        Il funzionamento del portone sezionale per garage Genius
+                        viene garantito per <b>10 anni dalla data di acquisto</b> del portone. Maggiori
+                        dettagli nelle Condizioni Generali di Vendita.
+                    </p>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <h2 style="color: #0c3c53">
+                        GARANZIA 10 ANNI
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
+                <div class="col-lg-3 text-center">
+                    <h2 style="color: #0c3c53">
+                       DETRAZIONE FISCALE & RISPARMIO ENERGETICO
+                    </h2>
+                </div>
+                <div class="col-lg-7">
+                    <p>
+                        I portoni sezionali Genius, grazie alla qualit&agrave; delle schiume utilizzate per la produzione dei pannelli,
+                        alle guarnizioni di tenuta applicate tra i pannelli,
+                        sulle guide verticali, sulla veletta superiore e sul bordo inferiore a pavimento,
+                        <b>garantiscono un ottimo isolamento termico e acustico</b>.
+                        <br><br>
+                        I portoni sezionali rientrano nella categoria dei prodotti che <b>contribuiscono al risparmio energetico dei fabbricati</b>
+                        e pertanto possono beneficiare delle <b>detrazioni fiscali</b>.
+                        Per poter usufruire di tali detrazioni &egrave; necessario che il locale in cui il portone verr&agrave; installato sia riscaldato.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <div class="col-lg-10 text-center m-2">
+                    <h2 style="color: #0c3c53">COLORAZIONI DISPONIBILI</h2>
+                    <img src="assets/img/sezionali/colori.jpg" alt="colori">
                 </div>
             </div>
         </div>
@@ -504,7 +729,6 @@
     </div>
 </section><!-- End Cliens Section -->
 
-
 <!-- ======= Footer ======= -->
 <footer id="footer">
 
@@ -546,9 +770,9 @@
                     <p>Contattaci o seguici per le prossime novit&agrave;</p>
                     <div class="social-links mt-3">
                         <a href="https://it-it.facebook.com/SalferInfissiLioni/" target="_blank" class="facebook"><i
-                                class="bx bxl-facebook"></i></a>
+                                    class="bx bxl-facebook"></i></a>
                         <a href="https://www.instagram.com/salfer_infissi/" target="_blank" class="instagram"><i
-                                class="bx bxl-instagram"></i></a>
+                                    class="bx bxl-instagram"></i></a>
                     </div>
                 </div>
 
@@ -568,7 +792,7 @@
 
 <div id="preloader"></div>
 <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-        class="bi bi-arrow-up-short"></i></a>
+            class="bi bi-arrow-up-short"></i></a>
 
 <!-- Vendor JS Files -->
 <script src="assets/vendor/aos/aos.js"></script>
