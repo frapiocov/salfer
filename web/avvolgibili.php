@@ -76,7 +76,7 @@
             <img src="assets/img/fornitori/croci.png" width="140" height="100" class="img-fluid" alt="">
             <h2>Tapparelle Avvolgibili e Orientabili CROCI</h2>
             <p>
-                Le Tapparelle avvolgibili della CROCI offrono una <b>durabilit&agrave;</b> straordinaria
+                Le Tapparelle avvolgibili orientabili della CROCI offrono una <b>durabilit&agrave;</b> straordinaria
                 unita alla facile e quasi inesistente manutenzione.
                 Disponibili in <b>alluminio</b>, in <b>acciaio</b> e in <b>PVC</b>.
                 Un prodotto che offre sicurezza, funzionalit&agrave; e valore estetico alle finestre.
@@ -90,78 +90,168 @@
     <section id="portfolio-details" class="portfolio-details">
         <div class="container">
 
-            <div class="row gy-4" >
-                <p>
-                    Le tapparelle avvolgibili in alluminio CROCI sono composte da profili
-                    in alluminio coibentato con poliuretano espanso ecologico.
-                    Sono tutti provvisti di certificazione CE.
-                </p>
+            <!--avvolgibili-->
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <div class="col-lg-7">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/avv1.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/avv2.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/avv3.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/avv4.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/avv5.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Tapparella Avvolgibile</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+                            Le tapparelle avvolgibili in alluminio CROCI sono composte da profili
+                            in alluminio coibentato con poliuretano espanso ecologico.
+                            Sono tutti provvisti di certificazione CE.
+
+                            Sono disponibili i modelli:<br>
+                            <b>CROCI ACCIAIO</b>,
+                            <b>ALLUMINIO HOUSE</b>,
+                            <b>ACCIAIO HOUSE</b>,
+                            <b>PVC</b>.
+                        <ul>
+                            <li><strong>Sezione</strong>: 9 x 28 mm</li>
+                            <li><strong>Peso m<sup>2</sup></strong>: 3,7 kg</li>
+                            <li><strong>Larghezza max</strong>: 3,7 m</li>
+                            <li><strong>Altezza max</strong>: 2,5 m</li>
+                            <li><strong>Superficie massima</strong>: 5 m<sup>2</sup></li>
+                        </ul>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--orienta-->
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Tapparella Orientabile ORIENTA</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <ul>
+                            <li><strong> Risparmio Energetico</strong>: Eco sostenibilit&agrave; e risparmio economico
+                                Utilizzare Orienta vuol dire risparmiare energia.
+                                Grazie alla sua funzione di schermatura solare, <b>protegge gli ambienti dalla radiazione diretta</b>,
+                                favorisce il <b>riciclo dell'aria</b>, consentendo una <b>naturale climatizzazione</b> degli ambienti.
+                            </li>
+                            <li><strong>Sicurezza</strong>:
+                                Una vera barriera protettiva, realizzata con profili di alluminio e meccanismi robusti e compatti.
+                                La sua particolare conformazione crea una vera <b>barriera antieffrazione</b>.
+                            </li>
+                            <li><strong>Privacy</strong>:
+                                Libert&agrave; di vivere i tuoi spazi,
+                                Orienta consente di vivere i propri spazi in piena libert&agrave;, <b>protetti da sguardi indiscreti</b>,
+                                senza rinunciare a luce e aria.
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="portfolio-description">
+                        <h2>Dettagli</h2>
+                        <p>
+                            L'avvolgibile a stecche orientabili.
+                            <b>Sintesi tra avvolgibile e persiana</b>, offre solo il meglio dei due mondi.
+                            Il suo funzionamento non richiede meccanismi all'interno delle guide,
+                            pertanto &egrave; possibile installarla come un normale avvolgibile
+                            su nuove costruzioni o sostituirla alle esistenti.
+                            Non necessita di manutenzione e garantisce un <b>funzionamento costante nel tempo</b>!
+                        </p>
+                    </div>
+                    <div class="d-flex justify-content-center m-1">
+                        <a href="assets/img/tapparelle/tapparella-orienta.mp4" class="glightbox btn-watch-video"><i
+                                    style="font-size: 20px" class="bi bi-play-circle"></i><span style="font-size: 20px"> Guarda Orienta in azione</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/croci1.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/croci2.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/croci3.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/tapparelle/croci4.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row gy-4 m-1 text-center align-content-center align-items-center" data-aos="fade-up">
+                <h2 class="text-center">Le possibili configurazioni di Orienta</h2>
+                <div class="col-lg-6 text-center">
+                    <div class="portfolio-details-slider swiper-container">
+                        <img src="assets/img/tapparelle/totaperte.jpg" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <img src="assets/img/tapparelle/totchiuse.jpg" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <img src="assets/img/tapparelle/parzaperte.jpg" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <img src="assets/img/tapparelle/parzavvolte.jpg" alt="" class="img-fluid">
+                    </div>
+                </div>
             </div>
 
-            <!--1-->
-            <div class="row gy-4" data-aos="fade-up">
-
-                <div class="col-lg-3">
-                    <div class="portfolio-info">
-                        <h2 style="color: #0c3c53">Avvolgibili in alluminio CROCI AR/28</h2>
-                        <h3>Informazioni tecniche prodotto</h3>
-                        <ul>
-                            <li><strong>Sezione</strong>: 9 x 28 mm</li>
-                            <li><strong>Peso m<sup>2</sup></strong>: 3,7 kg</li>
-                            <li><strong>Larghezza max</strong>: 3,7 m</li>
-                            <li><strong>Altezza max</strong>: 2,5 m</li>
-                            <li><strong>Superficie massima</strong>: 5 m<sup>2</sup></li>
-                        </ul>
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
+                <h2 class="text-center">Come funziona Orienta</h2>
+                <div class="col-lg-7 text-center">
+                    <div class="portfolio-details-slider swiper-container">
+                        <img src="assets/img/tapparelle/tecnologia.png" alt="" class="img-fluid">
                     </div>
                 </div>
-
-                <div class="col-lg-3">
-                    <div class="portfolio-info">
-                        <h2 style="color: #0c3c53">Avvolgibili in alluminio CROCI AR/32</h2>
-                        <h3>Informazioni tecniche prodotto</h3>
-                        <ul>
-                            <li><strong>Sezione</strong>: 9 x 28 mm</li>
-                            <li><strong>Peso m<sup>2</sup></strong>: 3,7 kg</li>
-                            <li><strong>Larghezza max</strong>: 3,7 m</li>
-                            <li><strong>Altezza max</strong>: 2,5 m</li>
-                            <li><strong>Superficie massima</strong>: 5 m<sup>2</sup></li>
-                        </ul>
+                <div class="col-lg-5">
+                    <div class="portfolio-details-slider swiper-container">
+                        <p>
+                            <b>Stecche orientabili</b>:
+                            Ogni stecca si apre come se fosse una finestra a sporgere.
+                            L'angolo di apertura &egrave; stato studiato per offrire una <b>corretta schermatura</b>
+                                dai raggi solari, <b>illuminazione degli ambienti</b> con luce indiretta e un <b>efficace ricambio
+                                d'aria</b>. La sua geometria offre uno stile adattabile a tutte le architetture.
+                            <br><br>
+                            <b>Resistenza nel tempo</b>:
+                            Prodotta con profili di alluminio estruso e verniciata con <b>polveri antigraffio</b>,
+                            garantisce <b>robustezza e funzionalit&agrave;</b> nel tempo. Non necessita di manutenzione.
+                            <br><br>
+                            <b>Versatilit&agrave;</b>
+                            Il suo funzionamento non richiede meccanismi all'interno delle guide,
+                            viene installata come una normale avvolgibile su nuove costruzioni,
+                            nelle ristrutturazioni e in assenza di predisposizioni per il cassonetto (avvolgimento esterno).
+                        </p>
                     </div>
                 </div>
-
-                <div class="col-lg-3">
-                    <div class="portfolio-info">
-                        <h2 style="color: #0c3c53">Avvolgibili in alluminio CROCI AR/17</h2>
-                        <h3>Informazioni tecniche prodotto</h3>
-                        <ul>
-                            <li><strong>Sezione</strong>: 9 x 28 mm</li>
-                            <li><strong>Peso m<sup>2</sup></strong>: 3,7 kg</li>
-                            <li><strong>Larghezza max</strong>: 3,7 m</li>
-                            <li><strong>Altezza max</strong>: 2,5 m</li>
-                            <li><strong>Superficie massima</strong>: 5 m<sup>2</sup></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-lg-3">
-                    <div class="portfolio-info">
-                        <h2 style="color: #0c3c53">Avvolgibili in alluminio CROCI AR/28</h2>
-                        <h3>Informazioni tecniche prodotto</h3>
-                        <ul>
-                            <li><strong>Sezione</strong>: 9 x 28 mm</li>
-                            <li><strong>Peso m<sup>2</sup></strong>: 3,7 kg</li>
-                            <li><strong>Larghezza max</strong>: 3,7 m</li>
-                            <li><strong>Altezza max</strong>: 2,5 m</li>
-                            <li><strong>Superficie massima</strong>: 5 m<sup>2</sup></li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-
-            <!--2-->
-            <div class="row gy-4">
-
             </div>
 
         </div>

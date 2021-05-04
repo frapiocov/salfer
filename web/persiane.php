@@ -74,10 +74,12 @@
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
             <img src="assets/img/fornitori/xmlid_23_.png" class="img-fluid" alt="">
-            <h2>Persiane Orientabili e Blindate</h2>
+            <img src="assets/img/fornitori/logo_conte_i-nobili.png" width="120" class="img-fluid" alt="">
+            <h2>Persiane Orientabili, Blindate e Scuroni</h2>
             <p>Salfer offre i tipi di persiane pi&ugrave; disparati dalla serie <b>CLASSICA</b>,
                 con design dalle linee morbide ed essenziali alle persiane <b>Orientabili</b>, le <b>Blindate</b>
                 e il combinato <b>Ferro Ferro</b> provvisto di grata.
+                Si uniscono ad esse la raccolta di Scuroni targata Conte i nobili.
                 Tutti i modelli sono perfettamente adattabili a qualsiasi tipo di arredo e architettura.</p>
 
         </div>
@@ -395,8 +397,95 @@
                     unico corpo ermeticamente chiuso e ottenendo il <b>top della sicurezza</b>.
                 </p>
             </div>
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <h2 class="text-center" style="color:#0c3c53;">Scuroni Conte i Nobili</h2>
+                <div class="col-lg-3">
+                    <img src="assets/img/persiane/scuron1.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="col-lg-3">
+                    <img src="assets/img/persiane/scuron2.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="col-lg-3">
+                    <img src="assets/img/persiane/scuron1.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="col-lg-3">
+                    <img src="assets/img/persiane/scuron2.jpg" alt="" class="img-fluid">
+                </div>
+            </div>
 
-
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <h1 class="text-center" style="color:#0c3c53;">Scuroni Conte i Nobili</h1>
+                <div class="col-lg-3">
+                    <img src="assets/img/persiane/scuron3.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="col-lg-6">
+                    <h2>Scurone coibentato</h2>
+                    <p>
+                        I NOBILI propone anche lo scurone Conte coibentato.
+                        All'interno delle doghe &egrave; stato applicato un isolante in modo da ostacolare
+                        la trasmissione del calore ed aumentare l'isolamento del sistema oscurante.
+                        Disponibile con o senza telaio, con doghe verticali o orizzontali.
+                        Numerose sono le soluzioni estetiche disponibili.
+                        <br><br>
+                    </p>
+                </div>
+                <div class="col-lg-3">
+                    <img src="assets/img/persiane/scuron%204.jpg" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="row gy-4 m-1 section-bg" data-aos="fade-up">
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">STRUTTURA</h2>
+                        <p>
+                            Lo scurone sar&agrave; costruito con l'impiego di profili in alluminio della linea I NOBILI serie Conte.
+                            L'anta misura 58 mm, ed &egrave; predisposta per l'inserimento del profilo doga fissa
+                            con larghezza visiva di 85 mm e sezione 14 mm.
+                            Tutti i profili di anta saranno costituiti da <b>profili in alluminio per garantire una buona resistenza
+                                meccanica</b> e un buon allineamento per giunzioni a 45° e 90° stabili.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">ALLUMINIO</h2>
+                        <p>
+                            I profili esterni saranno realizzati mediante estrusione in lega di alluminio EN AW 6060
+                            (UNI EN 573-3:1996 e EN 755-2:1999).
+                            Stato di fornitura T5 (UNI EN 515:1996).
+                            Tolleranza dimensionale e spessori conformi alla norma UNI EN 12020-2:2002
+                            Gli stessi dovranno essere trattati mediante finitura anodizzata, o verniciati
+                            con polveri nei colori RAL, metallizzati e color legno.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">ACCESSORI</h2>
+                        <p>
+                            Le giunzioni degli angoli a 45° in alluminio saranno effettuate per mezzo di apposite
+                            squadrette in lega di alluminio pressofuso a tirare.
+                            Le giunzioni a T saranno effettuate con viti in acciaio autofilettanti nelle
+                            sedi fissaggio profilo. Il sistema preveder&agrave; l'utilizzo della ferramenta
+                            ferma imposta con spagnoletta a rotazione di 180°, asta di collegamento, ganci di chiusura e perni di chiusura superiore e inferiore.
+                            Le cerniere, saranno di tipo a scomparsa, o in vista, complete di cardine a muro e rondella di rifinitura in plastica nera.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">GUARNIZIONI</h2>
+                        <p>
+                            Lo scurone include la guarnizione di battuta esterna sull'anta
+                            al fine di incrementare l'isolamento acustico, termico e di tenuta.
+                            Essa sar&agrave; realizzata in EPDM nei colori bianco, marrone,nero e verde.
+                            Nel giunto inferiore tra zoccolo e pavimento sar&agrave; previsto un profilo
+                            porta-spazzolino con annesso spazzolino per una compensazione di circa 5 mm per tutta la larghezza.
+                            La guarnizione &egrave; nera tra doghe e anta.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </section><!-- End Portfolio Details Section -->
 
