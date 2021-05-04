@@ -225,7 +225,7 @@
                     <div class="icon-box text-center">
                         <a class="nav-link scrollto" href="#basic">
                             <i style="font-size: 150px" class=" menu-door bi bi-paint-bucket"></i>
-                            <h3>Per vedere tutti i modelli disponibili</h3>
+                            <h3>Per vedere tutti i rivestimenti disponibili</h3>
                         </a>
                     </div>
                 </div>
