@@ -60,7 +60,7 @@
                         <li><a href="ringhiere.php">Ringhiere</a></li>
                     </ul>
                 </li>
-                <li><a class="nav-link scrollto" href="home.php">Contatti</a></li>
+                <li><a class="nav-link scrollto" href="home.php?#contact">Contatti</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
