@@ -686,7 +686,7 @@
             <div class="row gy-4 m-1" data-aos="fade-up">
                 <div class="col-lg-10 text-center m-2">
                     <h2 style="color: #0c3c53">COLORAZIONI DISPONIBILI</h2>
-                    <img src="assets/img/sezionali/colori.jpg" alt="colori">
+                    <img src="assets/img/sezionali/colori.jpg" alt="colori" class="img-fluid">
                 </div>
             </div>
         </div>

@@ -37,7 +37,7 @@
 <header id="header" class="fixed-top header-inner-pages">
     <div class="container d-flex align-items-center">
 
-        <h1 class="logo me-auto"><a href="home.php">SALFER</a></h1>
+        <h1 class="logo me-auto"><a href="#">SALFER</a></h1>
         <!--
             <a href="" class="logo me-auto"><img src="assets/img/salfer-nobg.png" alt="Salfer Logo" class="img-fluid"></a>
       -->

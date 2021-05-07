@@ -463,32 +463,37 @@
                 </div>
 
                 <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                    <form action="contact.php" method="post" role="form" class="php-email-form">
                         <div class="row">
                             <div class="form-group col-md-6">
                                 <label for="name">Nome e Cognome</label>
-                                <input type="text" name="name" class="form-control" id="name" required>
+                                <input type="text" placeholder="Lucia Rossi" name="name" class="form-control" id="name" required>
                             </div>
                             <div class="form-group col-md-6">
-                                <label for="name">La tua e-mail o il tuo numero</label>
-                                <input type="email" class="form-control" name="email" id="email" required>
+                                <label for="name">Il tuo numero di cellulare</label>
+                                <input type="tel" placeholder="320 333 1234" class="form-control" name="tel" id="tel" required>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-12">
+                                <label for="name">La tua e-mail</label>
+                                <input type="email" placeholder="luciarossi@email.com" class="form-control" name="email" id="email" required>
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="name">Oggetto</label>
-                            <input type="text" class="form-control" name="subject" id="subject" required>
+                            <input type="text" placeholder="Richiesta preventivo" class="form-control" name="subject" id="subject" required>
                         </div>
                         <div class="form-group">
                             <label for="name">Messaggio</label>
-                            <textarea class="form-control" name="message" rows="10" required></textarea>
+                            <textarea class="form-control" placeholder="La richiesta nei dettagli per poterti aiutare al meglio." name="message" rows="10" required></textarea>
                         </div>
                         <div class="my-3">
-                            <div class="loading">Caricamento</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Il tuo messaggio è stato inviato. Grazie Mille!</div>
+                            <div id="error-message" class="error-message">Errore nell'invio della richiesta! Ricontrolla i campi.</div>
+                            <div id="sent-message" class="sent-message">La tua richiesta &egrave; stata inoltrata. Ti contatteremo a breve!</div>
                         </div>
                         <div class="text-center">
-                            <button type="submit">Invia Messaggio</button>
+                            <button type="submit" onclick="document.getElementById('sent-message').style.display = 'block'">Invia Messaggio</button>
                         </div>
                     </form>
                 </div>

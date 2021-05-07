@@ -126,7 +126,7 @@
                 </div>
                 <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
-                        <a class="nav-link scrollto" href="#info">
+                        <a class="nav-link scrollto" href="#reglass">
                             <h2>Reglass</h2>
                         </a>
                     </div>
@@ -239,10 +239,312 @@
                 </div>
             </div>
 
+            <!--marchese-->
+            <div class="row gy-4" id="marchese" data-aos="fade-up">
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Infisso MarcheseHP</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+                            I serramenti saranno costruiti con l'impiego di <b>profili in Alluminio-ABS</b> della linea I NOBILI serie Marchese HP a taglio termico.
+                            La larghezza del <b>telaio fisso</b> &egrave; di 64 mm per le versioni Line e Class a
+                            differenza della versione Look che &egrave; di 86 mm, mentre <b>l'anta a sormonto</b> nella versione Class misura 93 mm
+                            e nelle versioni Line e Look misura 86 mm.
+                            La <b>battuta del profilo in alluminio del telaio fisso</b> potr&agrave; essere di 22 mm o 40 mm solo per le versioni Line e Class,
+                            a differenza della versione Look che ha esclusivamente telaio L.
+                            Tutti i <b>profili</b>, sia di telaio sia di anta, saranno costituiti da profili esterni in alluminio,
+                            intermedi in ABS tubolari anche nella zona di isolamento, per garantire una <b>buona resistenza meccanica</b>,
+                            e un buon allineamento per giunzioni a 45° e 90° stabili.
+                            Il collegamento tra i profili in alluminio e i profili intermedi in ABS sar&agrave; realizzato mediante apposita sede utile
+                            ad ospitare l'incastro creato sul profilo in ABS. L'assemblaggio dei profili <b>esterni in alluminio</b>
+                            e <b>intermedi in ABS</b> sar&agrave; effettuato mediante rullatura meccanica per garantire una <b>migliore resistenza allo scorrimento</b>.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/m1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/m2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/m3.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row gy-4 text-center" id="basic" data-aos="fade-up">
+                <h1 style="color: #0c3c53"> Disponibile in 3 versioni:</h1>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">MarcheseHP CLASS</h2>
+                        <img src="assets/img/infissi/marchese-class.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">MarcheseHP LINE</h2>
+                        <img src="assets/img/infissi/marchese-line.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">MarcheseHP LOOK</h2>
+                        <img src="assets/img/infissi/marchese-look.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+
+            <!--reluce-->
+            <div class="row gy-4" id="reluce" data-aos="fade-up">
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/rel1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/rel2.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Infisso Reluce</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+                            I telai saranno realizzati con l'impiego di <b>profili in Legno-ABS-Alluminio</b>,
+                            mentre le ante saranno realizzate con listoni di legno lamellare o legno massello
+                            della linea I NOBILI serie Reluce. La <b>sezione del telaio fisso</b> &egrave; di 64 mm
+                            per la versione Line a differenza della versione Look che &egrave; di 82 mm.
+                            La <b>battuta del profilo in legno del telaio fisso</b> nella versione Line e Look potr&agrave;
+                            essere di 22 mm o 40 mm. Tutti i <b>profili di telaio</b> saranno costituiti da profili
+                            esterni in alluminio, intermedi in ABS tubolari anche nella zona di isolamento,
+                            per garantire una <b>buona resistenza meccanica</b>, e un <b>buon allineamento per giunzioni a 45° e 90° stabili</b>.
+                            Il collegamento tra i profili in alluminio e i profili intermedi in ABS sar&agrave; realizzato mediante apposita sede
+                            utile ad ospitare l'incastro creato sul profilo in ABS.
+                            L'assemblaggio dei profili esterni in alluminio e intermedi in ABS sarà effettuato mediante rullatura meccanica
+                            per garantire una <b>migliore resistenza allo scorrimento</b>, mentre tutti i profili di anta avranno un'accoppiamento indiretto grazie
+                            all'interposizione di un elemento connettore ed isolante (tassello di bloccaggio in nylon ad incastro),
+                            il quale permette una <b>dilatazione dei due materiali libera da tensioni</b>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row gy-4 text-center align-content-center" id="basic" data-aos="fade-up">
+                <h1 style="color: #0c3c53"> Disponibile in 2 versioni:</h1>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">Reluce LOOK</h2>
+                        <img src="assets/img/infissi/reluce-look.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">Reluce LINE</h2>
+                        <img src="assets/img/infissi/reluce-line.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+
+            <!--requadro-->
+            <div class="row gy-4 " id="requadro" data-aos="fade-up">
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Infisso Requadro</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+                            I serramenti saranno costruiti con l'impiego di <b>profili in Alluminio-ABS</b> della linea I NOBILI serie Marchese HP a taglio termico.
+                            La larghezza del <b>telaio fisso</b> &egrave; di 64 mm per le versioni Line e Class a
+                            differenza della versione Look che &egrave; di 86 mm, mentre <b>l'anta a sormonto</b> nella versione Class misura 93 mm
+                            e nelle versioni Line e Look misura 86 mm.
+                            La <b>battuta del profilo in alluminio del telaio fisso</b> potr&agrave; essere di 22 mm o 40 mm solo per le versioni Line e Class,
+                            a differenza della versione Look che ha esclusivamente telaio L.
+                            Tutti i <b>profili</b>, sia di telaio sia di anta, saranno costituiti da profili esterni in alluminio,
+                            intermedi in ABS tubolari anche nella zona di isolamento, per garantire una <b>buona resistenza meccanica</b>,
+                            e un buon allineamento per giunzioni a 45° e 90° stabili.
+                            Il collegamento tra i profili in alluminio e i profili intermedi in ABS sar&agrave; realizzato mediante apposita sede utile
+                            ad ospitare l'incastro creato sul profilo in ABS. L'assemblaggio dei profili <b>esterni in alluminio</b>
+                            e <b>intermedi in ABS</b> sar&agrave; effettuato mediante rullatura meccanica per garantire una <b>migliore resistenza allo scorrimento</b>.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req4.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req5.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req6.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row gy-4 text-center" id="basic" data-aos="fade-up">
+                <h1 style="color: #0c3c53"> Disponibile in 2 versioni:</h1>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">Requadro CLASS</h2>
+                        <img src="assets/img/infissi/requadro-class.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">Requadro LINE</h2>
+                        <img src="assets/img/infissi/requadro-line.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+
+            <!--russo-->
+            <div class="row gy-4" id="russo" data-aos="fade-up">
+                <div class="col-lg-7">
+                    <div class="portfolio-details-slider swiper-container">
+                        <img src="assets/img/infissi/russo1.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Infisso Russo Alluminio TT</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+                            <b>Sistema completo a taglio termico</b> per la realizzazione di porte,
+                            finestre, vasistas, sporgere, bilico e scorrevole parallelo con <b>apertura
+                                verso l'interno e verso l'esterno</b> nella tipologia a giunto aperto.
+                            Estetica <b>elegante</b> unita alle eccellenti prestazioni per chi sceglie soluzioni
+                            sofisticate.
+                        </p>
+                        <ul>
+                            <li><strong>Estrusione profilati</strong>: lega di alluminio EN AW 6060 (UNI 9006) HB65</li>
+                            <li><strong>Stato di finitura</strong>: T5 (UNI EN 515:1996)</li>
+                            <li><strong>Tipo profilato</strong>:  taglio termico con barrette in poliammide da 34mm</li>
+                            <li><strong>Dimensioni telaio</strong>: 79mm</li>
+                            <li><strong>Dimensione anta</strong>: 86mm</li>
+                            <li><strong>Sistema di tenuta</strong>: guarnizione in EPDM a giunto aperto</li>
+                            <li><strong>Accessori</strong>: camera europea unificata</li>
+                            <li><strong>Accessori supplementari</strong>: ferramenta a nastro</li>
+                            <li><strong>Fuga tra i profilati</strong>: 5mm</li>
+                            <li><strong>Sovrapposizione battuta interna</strong>: 6mm</li>
+                            <li><strong>Applicazione vetro</strong>: fermavetro a scatto e vetro in filare</li>
+                            <li><strong>Dimensione alloggiamento vetro</strong>: min 32mm e max 44mm</li>
+                            <li><strong>Altezza aletta per sede vetro</strong>: 25mm</li>
+                            <li><strong>Inserimento verticale vetrazioni</strong>: 18mm</li>
+                            <li><strong>Sistema di chiusura</strong>: multipunto</li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!--reglass-->
+            <div class="row gy-4" id="reglass" data-aos="fade-up">
+                <div class="col-lg-5">
+                    <div class="portfolio-info">
+                        <h2 style="color: #0c3c53">Infisso Reglass</h2>
+                        <h3>Informazioni tecniche prodotto</h3>
+                        <p>
+                            I telai saranno realizzati con l'impiego di <b>profili in Legno-ABS-Alluminio</b>,
+                            mentre le ante saranno realizzate con listoni di <b>legno lamellare o legno massello</b>
+                            della linea I NOBILI serie Reglass. La sezione del telaio fisso è di 64 mm per la versione
+                            Line a differenza della versione Look che è di 82 mm, mentre l’anta a sormonto nella
+                            versione Line e complanare nella versione Look misura 82 mm.
+                            La <b>battuta del profilo in legno del telaio fisso</b> nella versione Line e Look potr&agrave;
+                            essere di 22 mm o 40 mm.
+                            Tutti i profili di telaio saranno costituiti da <b>profili esterni in alluminio, intermedi in ABS</b>
+                            tubolari anche nella zona di isolamento, per garantire una <b>buona resistenza meccanica</b>,
+                            e un buon allineamento per giunzioni a 45° e 90° stabili.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req1.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req2.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req3.jpg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="assets/img/infissi/req4.jpg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row gy-4 text-center" id="basic" data-aos="fade-up">
+                <h1 style="color: #0c3c53"> Disponibile in 2 versioni:</h1>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">Reglass LOOK</h2>
+                        <img src="assets/img/infissi/reglass-look.jpg" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-details-slider swiper-container">
+                        <h2 style="color: #0c3c53">Reglass LINE</h2>
+                        <img src="assets/img/infissi/reglass-line.jpg" alt="" class="img-fluid">
+                    </div>
+                </div>
+            </div>
 
             <!--dettagli comuni-->
-            <div class="row gy-4 text-center" id="info" data-aos="fade-up">
-                <h1 style="color: #0c3c53">Maggiori dettagli tecnici</h1>
+            <div class="row gy-4 m-1 text-center" id="info" data-aos="fade-up">
+                <h1 style="color: #0c3c53">Maggiori dettagli tecnici per gli Infissi</h1>
             </div>
 
             <div class="row gy-4 m-1" data-aos="fade-up">
@@ -372,6 +674,81 @@
                             in PVC in modo da <b>non creare ingombro visivo</b> (marrone, nera, bianca, avorio, trasparente),
                             atta a consentire una pressione ottimale fra il vetrocamera e il profilo.
                         </p>
+                    </div>
+                </div>
+            </div>
+
+            <!--temperature-->
+            <div class="row gy-4 m-1" data-aos="fade-up">
+                <div class="col-lg-5 text-center">
+                    <h2>Isometria degli infissi</h2>
+                    <p>
+                        Il diagramma riporta le temperature <b>dall'esterno verso l'interno</b>,
+                        evidenziandone la differenza (15°C circa) sia in estate che in inverno.
+                        L'esempio si riferisce alla stagione fredda; in questo caso l'isolamento del serramento
+                        assicura il <b>notevole risparmio energetico e di consumi</b>.
+                    </p>
+                    <img src="assets/img/infissi/isotermia.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="col-lg-7 text-center">
+                    <h2>Colorazioni Disponibili</h2>
+                    <div class="portfolio-details-slider swiper-container">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <h3>Brown Oak</h3>
+                                <img src="assets/img/infissi/color/brown-oak.jpg" alt="" width="400" height="360">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Ciliegio rosso</h3>
+                                <img src="assets/img/infissi/color/ciliegio-rosso.jpg" width="400" height="360" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Ciliegio ruvido</h3>
+                                <img src="assets/img/infissi/color/ciliegio_ruvido.jpg" width="400" height="360" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Douglas</h3>
+                                <img src="assets/img/infissi/color/douglas.jpg" width="400" height="360" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Frassino Castagno</h3>
+                                <img src="assets/img/infissi/color/frassino-castagno.jpg" alt="" height="320" width="480">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Frassino Ciliegio</h3>
+                                <img src="assets/img/infissi/color/frassino-ciliegio.jpg" width="400" height="360" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Frassino Noce scuro</h3>
+                                <img src="assets/img/infissi/color/frassino-noce-scuro.jpg" height="360" width="400" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Noce reale</h3>
+                                <img src="assets/img/infissi/color/noce-reale.jpg" alt="" width="400" height="360">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Noce scuro ruvido</h3>
+                                <img src="assets/img/infissi/color/noce_scuro_ruvido.jpg" alt="" height="360" width="400">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Quercia bianca</h3>
+                                <img src="assets/img/infissi/color/quercia-bianca.jpg" alt="" width="400" height="360">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Quercia reale</h3>
+                                <img src="assets/img/infissi/color/quercia-reale.jpg" alt="" height="360" width="400">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Rovere naturale</h3>
+                                <img src="assets/img/infissi/color/rovere-naturale.jpg" alt="" width="400" height="360">
+                            </div>
+                            <div class="swiper-slide">
+                                <h3>Tulipier Ciliegio</h3>
+                                <img src="assets/img/infissi/color/tulipier-ciliegio.jpg" alt="" height="360" width="400">
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
                     </div>
                 </div>
             </div>
