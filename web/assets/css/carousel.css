@@ -1,0 +1,104 @@
+#carousel-container {
+  background: #fff;
+  min-height: 90vh;
+  width:100%;
+  align-items: center;
+  justify-content: center;
+}  
+#carousel .carousel-item.boat{
+  background-image:url("../img/carousel/carousel-1.jpg");
+}
+#carousel .carousel-item.sea{
+  background-image:url("../img/carousel/carousel-2.jpg");
+}
+#carousel .carousel-item.river{
+  background-image:url("../img/carousel/carousel-3.jpg");
+}
+#carousel .carousel-item{
+  height:90vh;
+  width:100%;
+  min-height: min-content;
+  max-width: auto;
+  background:no-repeat center center scroll;
+  background-size:cover;
+  image-rendering: auto;
+}
+#carousel .carousel-inner .carousel-item{
+  transition:-webkit-transform 0.4s ease;
+  transition:transform 0.4s ease;
+  transition:transform 0.4s ease, -webkit-transform 0.4s ease;
+}
+#carousel .carousel-item .caption{
+  background:rgba(0,0,0,0.8);
+  padding:40px;
+  color:white;
+  animation-duration: 1s;
+  animation-delay: 1s;
+}
+#carousel .caption h2{
+  animation-duration: 1s;
+  animation-delay: 1s;
+  color: #fff;
+}
+#carousel .caption p{
+  animation-duration: 1s;
+  animation-delay: 1.2s;
+}
+
+#carousel .caption a{
+  animation-duration: 1s;
+  animation-delay: 1.4s;
+}
+.delicious-btn{
+  display: inline-block;
+  min-width:160px;
+  height:60px;
+  color:#fff;
+  border:none;
+  border-radius: 6;
+  padding:0 26px;
+  font-size:16px;
+  line-height:58px;
+  font-weight:600;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  text-transform: capitalize;
+  background:#47b2e4;
+}
+.delicious-btn:hover{
+  background:#fff;
+  color: #47b2e4;
+}
+
+.cookie-consent{  
+position: fixed;
+bottom: 8px;
+left: 20px;
+width: 320px;
+padding-top: 7px;
+height: 100px;
+color: #fff;
+
+line-height: 20px;
+padding-left: 10px;
+padding-right: 10px;
+font-size: 14px;
+background: #292929;
+z-index: 120;
+cursor: pointer;
+border-radius: 6px;
+}
+
+.see-cookie {
+  visibility: hidden;
+}
+
+.allow-button{
+    color: #fff;
+    font-size: 14px;
+    line-height: 10px;
+    border-radius: 3px;
+    padding: 0.5rem;
+    border: 1px solid #47b2e4;
+    background-color: #47b2e4;
+}
