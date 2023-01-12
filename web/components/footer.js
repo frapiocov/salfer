@@ -168,9 +168,9 @@ class Footer extends HTMLElement {
 
               </div>
               <div class="credits">
-                  Made with <3 By
+                  Made By
                   <a href="https://frapiocov.github.io/" target="_blank"
-                      >Pio</a
+                      >pio</a
                   >
               </div>
           </div>
