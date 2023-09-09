@@ -93,7 +93,7 @@ class Footer extends HTMLElement {
                           <h3>Salfer Infissi</h3>
                           <p>
                               Di Della Polla Raffaele <br />
-                              Via Roma <br />
+                              Via Roma 46 <br />
                               Lioni, AV 83047<br />
                               Italia <br /><br />
                               <strong>Telefono e Fax:</strong> +39 347 772
@@ -166,12 +166,6 @@ class Footer extends HTMLElement {
                   <strong><span>Salfer Infissi</span></strong
                   >. Tutti i diritti riservati.
 
-              </div>
-              <div class="credits">
-                  Made By
-                  <a href="https://frapiocov.github.io/" target="_blank"
-                      >pio</a
-                  >
               </div>
           </div>
       </footer>
